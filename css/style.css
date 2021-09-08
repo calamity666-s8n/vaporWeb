@@ -1,0 +1,39 @@
+.nav-wrapper{
+    background-color: rgb(92, 25, 92);
+}
+
+body {
+    background-color: black;
+}
+.slider .indicators .indicator-item.active{
+    background-color : rgb(117, 30, 74);
+}
+ .move {
+     margin-top : 60px ;
+     margin-bottom:20px;
+ }
+.parallax-container {
+    min-height: 280px;
+    height:auto;
+}
+.white.text{
+    color:aliceblue;
+}
+p{
+   color:blanchedalmond;
+}
+.brand-logo{
+    font-style: cursive;
+}
+.plink{
+    color:black !important;
+    
+}
+
+.footer-one{
+    background: violet;
+}
+.footer-two{
+    background: rgb(194, 39, 194);
+
+}
